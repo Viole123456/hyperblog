@@ -1,0 +1,16 @@
+body {
+    font-family: 'Comic Sans MS', sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+.historias img {
+    cursor: pointer;
+}
